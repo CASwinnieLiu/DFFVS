@@ -32,6 +32,6 @@ complex grassmann optimizer
 ###bgw
 ###
    - Import bgw.py
-    - `from DFFVS_bgw import bgw`
-  - Initialize just like an optimizer
-    - ` lr = bgw(net.parameters())`
+     - `from DFFVS_bgw import bgw`
+   - Initialize just like an optimizer
+     - ` lr = bgw(net.parameters())`
